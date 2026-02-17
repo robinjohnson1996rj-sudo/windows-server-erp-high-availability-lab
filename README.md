@@ -113,7 +113,6 @@ If one application server becomes unavailable, HAProxy automatically routes traf
 - HAProxy
 - Ubuntu Server
 - VMware Workstation
--
 
 ---
 
