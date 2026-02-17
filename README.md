@@ -117,19 +117,6 @@ If one application server becomes unavailable, HAProxy automatically routes traf
 
 ---
 
-## 📸 Screenshots
-
-### Network Diagram
-![Network Diagram](screenshots/08-Network-Diagram.png)
-
-### ERP Running on APP1
-![ERP APP1](screenshots/04-ERP-Running-APP1.png)
-
-### ERP Running on APP2
-![ERP APP2](screenshots/05-ERP-Running-APP2.png)
-
-### Load Balancer Working
-![Load Balancer](screenshots/06-LoadBalancer-Working.png)
 
 
 
